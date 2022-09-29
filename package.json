@@ -1,0 +1,32 @@
+{
+  "name": "react-multi-step-form",
+  "version": "1.0.0",
+  "description": "- Antd\n- Formik\n- Context API\n- Antd-Formik",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "4.12.1",
+    "babel-eslint": "^10.1.0",
+    "formik": "2.2.6",
+    "formik-antd": "2.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-pdf-print": "0.2.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
